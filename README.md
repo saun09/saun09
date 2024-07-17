@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saundarya Subramaniam from India. I am a second-year Computer Engineering student with a passion for Machine Learning, Robotics, and the Internet of Things (IoT).
+- 👋 Hi, I’m Saundarya Subramaniam from India. I am a second-year Computer Engineering student with a passion for Machine Learning, Robotics, and Internet of Things (IoT).
 -  Here, you'll find a collection of projects that reflect my journey and growth in these fields.
 - 👀 I’m interested in Machine Learning, Robotics and IoT
 - 🌱 I’m currently learning Algorithms and Data Structures, embedded systems for IoT, 
