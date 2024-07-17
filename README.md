@@ -9,7 +9,7 @@
  
  LinkedIn- https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYxAyRMhQSAulLpCR%2BcaQCA%3D%3D
   
-
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14792345-A-Cat-Gif#">
 
 <!---
 - 😄 Pronouns: She/Her
