@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Algorithms and Data Structures, embedded systems for IoT, 
 - 💞️ I’m looking to collaborate on Open source Machine Learning projects, competitions and hackathons.
 - 📫 How to reach me :
- Email- saundaryasubramaniam@gmail.com
- LinkedIn- https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYxAyRMhQSAulLpCR%2BcaQCA%3D%3D
+ - Email- saundaryasubramaniam@gmail.com
+ -LinkedIn- https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYxAyRMhQSAulLpCR%2BcaQCA%3D%3D
   
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
