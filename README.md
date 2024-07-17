@@ -7,7 +7,7 @@
   
  Email- saundaryasubramaniam@gmail.com
  
- LinkedIn- https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYxAyRMhQSAulLpCR%2BcaQCA%3D%3D
+ LinkedIn- (http://linkedin.com/in/saundarya-subramaniam-a43a2b27a)
   
 ![image_processing20201220-28043-if6niq](https://github.com/user-attachments/assets/f5fc842e-ada3-4144-8021-37c846034cf9)
 
