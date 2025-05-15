@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saundarya Subramaniam from India. I am a second-year Computer Engineering student with a passion for Machine Learning.
 -  Here, you'll find a collection of projects that reflect my journey and growth in these fields.
-- 👀 I’m interested in Machine Learning, Robotics and IoT
+- 👀 I’m interested in reinforcement learning, preference learning, and human-in-the loop AI
 - 🌱  I'm currently learning about Vision-Language Models and Reinforcement Learning for accessibility-focused AI applications.
 - 💞️ I’m looking to collaborate on Open source Machine Learning projects, competitions and hackathons.
 - 📫 How to reach me :
