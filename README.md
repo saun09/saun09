@@ -8,8 +8,8 @@
  Email- saundaryasubramaniam@gmail.com
  
  LinkedIn- http://linkedin.com/in/saundarya-subramaniam-a43a2b27a
-  
-![image_processing20201220-28043-if6niq](https://github.com/user-attachments/assets/f5fc842e-ada3-4144-8021-37c846034cf9)
+  <img src="https://github.com/user-attachments/assets/f5fc842e-ada3-4144-8021-37c846034cf9" width="400"/>
+
 
 <!---
 - 😄 Pronouns: She/Her
