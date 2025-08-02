@@ -173,6 +173,7 @@ Tech: React.js Prophet Python Flask RAG MCP
 
 **"Comparative Analysis of Deep Learning Models for Crop Disease Detection"**  
 *Subramaniam, S., Majumdar, S., Nadar, S., Kulkarni, K.*
+https://arxiv.org/abs/2506.20323
 
 - Evaluated **5 deep learning models** on **130K+ crop images**
 - Achieved **95.76% accuracy** with custom CNN architecture
