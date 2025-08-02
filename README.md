@@ -105,6 +105,18 @@ interests: [Open Source ML, AI Research, Hackathons, Accessibility Tech]
 <tr>
 <td width="50%">
 
+### Xelly
+**AI based excel trade data clustering and analyser**
+- Flask + React.js WebApp
+- Cosine Similarity clustering + DBSCAN
+- Real-time data analysis
+- Integrated forecast models
+
+**Tech:** `React.js` `Prophet` `Python` `Flask` `RAG` `MCP`
+
+</td>
+<td width="50%">
+  
 ### FASAL FORECAST
 **Crop Disease Detection System**
 - Flutter + TensorFlow mobile/web app
@@ -117,19 +129,7 @@ interests: [Open Source ML, AI Research, Hackathons, Accessibility Tech]
 </td>
 <td width="50%">
 
-### SmartShala
-**Personalized Learning Engine**
-- GPT-2 fine-tuning for content generation
-- Reinforcement learning for adaptation
-- Real-time preference tracking
-- Dynamic learning path optimization
 
-**Tech:** `Python` `GPT-2` `RL` `React`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### Preference Bandits
 **Biased Feedback Simulator**
@@ -193,8 +193,8 @@ interests: [Open Source ML, AI Research, Hackathons, Accessibility Tech]
 **Certifications**  
 `Reinforcement Learning - NPTEL` • `Multi-Agent AI Systems - IUCEE`
 
-**Recognition**  
-`National Scholarship - Ministry of Culture` • `4 Classical Music Examinations`
+**Fun stuff**  
+`National Scholarship - Ministry of Culture` • `4 Classical Music Examinations` • `Violinist in College band`
 
 </div>
 
