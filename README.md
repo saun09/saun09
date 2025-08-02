@@ -98,135 +98,77 @@ interests: [Open Source ML, AI Research, Hackathons, Accessibility Tech]
 </div>
 
 ---
-<div align="center">
-Show Image
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f5fc842e-ada3-4144-8021-37c846034cf9" width="150" style="border-radius: 50%; margin: 20px 0;"/>
-</div>
 
-<div align="center">
-Hi there, I'm Saundarya
-3rd Year Computer Engineering • K.J. Somaiya College of Engineering
-CGPA: 9.5/10 • Honors: 10/10 • Mumbai, India
-Show Image
-</div>
+## Featured Projects
 
-About
-yamlname: Saundarya Subramaniam
-role: AI/ML Research Associate
-location: Mumbai, India
-focus: 
-  - Vision-Language Models
-  - Reinforcement Learning  
-  - Legal AI Applications
-  - Human-in-the-Loop Systems
-
-current_work:
-  research: "Legal document analysis using LLMs & VLMs"
-  internship: "Building Xelly - Excel trade analysis platform"
-  learning: "Multi-Agent AI Systems & Advanced RL"
-
-interests: [Open Source ML, AI Research, Hackathons, Accessibility Tech]
-
-Experience
-AGR Knowledge Services • AI/ML Intern • May 2025 - July 2025
-Xelly - Intelligent Excel Analysis Platform
-
-Processes 30K+ rows with clustering algorithms using cosine similarity
-50% faster preprocessing with Prophet forecasting integration
-Built with Python (Flask/FastAPI), React, Redis, Plotly visualizations
-
-Somaiya ML Research Association • Research Associate • Aug 2024 - June 2025
-Legal AI Research
-
-Researching legal document analysis using cutting-edge LLMs & VLMs
-Conducted ML workshops for 100+ students
-Focus on democratizing legal knowledge access
-
-Software Development Center • Data Science Intern • May 2024 - July 2024
-Hindi Poetry Generation
-
-Preprocessed 1000+ Hindi poetry samples for generative AI
-Trained LSTM models to mimic original poets' writing styles
-Advanced text normalization and tokenization pipelines
-
-
-Tech Stack
-<div align="center">
-Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-AI/ML
-Show Image
-Show Image
-Show Image
-Show Image
-Development
-Show Image
-Show Image
-Show Image
-Show Image
-Databases
-Show Image
-Show Image
-Show Image
-</div>
-
-Featured Projects
 <table>
 <tr>
 <td width="50%">
-Xelly
-AI based excel trade data clustering and analyser
 
-Flask + React.js WebApp
-Cosine Similarity clustering + DBSCAN
-Real-time data analysis
-Integrated forecast models
-
+  
+### Xelly
+**AI based excel trade data clustering and analyser**
+- Flask + React.js WebApp
+- Cosine Similarity clustering + DBSCAN
+- Real-time data analysis
+- Integrated forecast models
 Tech: React.js Prophet Python Flask RAG MCP
 </td>
 <td width="50%">
-FASAL FORECAST
-Crop Disease Detection System
+  
+### FASAL FORECAST
+**Crop Disease Detection System**
+- Flutter + TensorFlow mobile/web app
+- InceptionV3 transfer learning
+- Real-time disease classification
+- Environmental data integration
 
-Flutter + TensorFlow mobile/web app
-InceptionV3 transfer learning
-Real-time disease classification
-Environmental data integration
+**Tech:** `Flutter` `TensorFlow` `Python` `Flask`
 
-Tech: Flutter TensorFlow Python Flask
+</td>
+<td width="50%">
+
+### SmartShala
+**Personalized Learning Engine**
+- GPT-2 fine-tuning for content generation
+- Reinforcement learning for adaptation
+- Real-time preference tracking
+- Dynamic learning path optimization
+
+**Tech:** `Python` `GPT-2` `RL` `React`
+
 </td>
 </tr>
 <tr>
 <td width="50%">
-Preference Bandits
-Biased Feedback Simulator
 
-Multi-armed bandit implementations
-E-Greedy & Thompson Sampling
-Bias analysis and fairness metrics
-Interactive Streamlit dashboard
+### Preference Bandits
+**Biased Feedback Simulator**
+- Multi-armed bandit implementations
+- E-Greedy & Thompson Sampling
+- Bias analysis and fairness metrics
+- Interactive Streamlit dashboard
 
-Tech: Python Streamlit NumPy Matplotlib
+**Tech:** `Python` `Streamlit` `NumPy` `Matplotlib`
+
 </td>
 <td width="50%">
-Quizzila
-Interactive Quiz Platform
 
-Full-stack web application
-User management system
-Real-time scoring engine
-Secure session handling
+### Quizzila
+**Interactive Quiz Platform**
+- Full-stack web application
+- User management system
+- Real-time scoring engine
+- Secure session handling
 
-Tech: PHP MySQL JavaScript Bootstrap
+**Tech:** `PHP` `MySQL` `JavaScript` `Bootstrap`
+
 </td>
 </tr>
 </table>
+
+---
+
 ## Research & Publications
 
 **"Comparative Analysis of Deep Learning Models for Crop Disease Detection"**  
@@ -262,8 +204,8 @@ Tech: PHP MySQL JavaScript Bootstrap
 **Certifications**  
 `Reinforcement Learning - NPTEL` • `Multi-Agent AI Systems - IUCEE`
 
-**Fun stuff**  
-`National Scholarship - Ministry of Culture` • `4 Classical Music Examinations` • `Violinist in College band`
+**Recognition**  
+`National Scholarship - Ministry of Culture` • `4 Classical Music Examinations`
 
 </div>
 
