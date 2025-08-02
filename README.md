@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SAUNDARYA%20SUBRAMANIAM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Research%20Associate%20%7C%20Vision-Language%20Models&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=200&section=header&text=SAUNDARYA%20SUBRAMANIAM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Research%20Associate%20%7C%20Vision-Language%20Models&descAlignY=55&descSize=16)
 
 </div>
 
@@ -105,17 +105,18 @@ interests: [Open Source ML, AI Research, Hackathons, Accessibility Tech]
 <tr>
 <td width="50%">
 
-  
 ### Xelly
 **AI based excel trade data clustering and analyser**
 - Flask + React.js WebApp
 - Cosine Similarity clustering + DBSCAN
 - Real-time data analysis
 - Integrated forecast models
-Tech: React.js Prophet Python Flask RAG MCP
+
+**Tech:** `React.js` `Prophet` `Python` `Flask` `RAG` `MCP`
+
 </td>
 <td width="50%">
-  
+
 ### FASAL FORECAST
 **Crop Disease Detection System**
 - Flutter + TensorFlow mobile/web app
@@ -124,18 +125,6 @@ Tech: React.js Prophet Python Flask RAG MCP
 - Environmental data integration
 
 **Tech:** `Flutter` `TensorFlow` `Python` `Flask`
-
-</td>
-<td width="50%">
-
-### SmartShala
-**Personalized Learning Engine**
-- GPT-2 fine-tuning for content generation
-- Reinforcement learning for adaptation
-- Real-time preference tracking
-- Dynamic learning path optimization
-
-**Tech:** `Python` `GPT-2` `RL` `React`
 
 </td>
 </tr>
@@ -173,7 +162,6 @@ Tech: React.js Prophet Python Flask RAG MCP
 
 **"Comparative Analysis of Deep Learning Models for Crop Disease Detection"**  
 *Subramaniam, S., Majumdar, S., Nadar, S., Kulkarni, K.*
-https://arxiv.org/abs/2506.20323
 
 - Evaluated **5 deep learning models** on **130K+ crop images**
 - Achieved **95.76% accuracy** with custom CNN architecture
@@ -234,6 +222,6 @@ https://arxiv.org/abs/2506.20323
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=100&section=footer)
 
 </div>
