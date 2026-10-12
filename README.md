@@ -4,8 +4,8 @@
 
 <img src="https://github.com/user-attachments/assets/f5fc842e-ada3-4144-8021-37c846034cf9" width="140" style="border-radius: 50%;" alt="Saundarya"/>
 
-**3rd-year Computer Engineering @ K.J. Somaiya College of Engineering**
-CGPA 9.5/10 · Honors 10/10 · Mumbai, India
+**Final year Computer Engineering @ K.J. Somaiya College of Engineering**
+
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saundaryasubramaniam@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/saundarya-subramaniam-a43a2b27a)
@@ -18,35 +18,7 @@ CGPA 9.5/10 · Honors 10/10 · Mumbai, India
 ---
 
 ## 👋 About
-
-I build and research AI systems that make complex information easier to use, from legal documents to trade spreadsheets to crop diagnostics. My work sits at the intersection of **vision-language models**, **reinforcement learning**, and **human-in-the-loop AI**.
-
-| | |
-|---|---|
-| 🔬 **Researching** | Legal document analysis with LLMs & VLMs |
-| 🛠️ **Building** | Xelly, an Excel trade-analysis platform |
-| 📚 **Learning** | Multi-agent AI systems & advanced RL |
-| 💡 **Interests** | Open-source ML · AI research · Hackathons · Accessibility tech |
-
----
-
-## 💼 Experience
-
-**AI/ML Intern, AGR Knowledge Services** · *May 2025 – Jul 2025*
-Built **Xelly**, an intelligent Excel analysis platform.
-- Cluster **30K+ rows** using cosine similarity
-- **50% faster preprocessing**, with Prophet forecasting integrated
-- Stack: Python (Flask/FastAPI), React, Redis, Plotly
-
-**Research Associate, Somaiya ML Research Association** · *Aug 2024 – Jun 2025*
-- Researching legal document analysis with LLMs & VLMs, aimed at democratizing access to legal knowledge
-- Ran ML workshops for **100+ students**
-
-**Data Science Intern, Software Development Center** · *May 2024 – Jul 2024*
-- Preprocessed **1,000+ Hindi poetry samples** with custom normalization and tokenization pipelines
-- Trained LSTM models to mimic the writing styles of the original poets
-
----
+AI/ML engineer building intelligent systems, AI agents, and full-stack products across healthcare, agriculture, and beyond.
 
 ## 🚀 Featured Projects
 
@@ -74,53 +46,8 @@ Built **Xelly**, an intelligent Excel analysis platform.
 
 `Flutter` `TensorFlow` `Python` `Flask`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### [Heart Disease Predictor](https://github.com/saun09/Predicting-Heart-Diseases)
-*Clinical risk prediction with classical ML* · [Live app](https://predicting-heart-diseases-saundarya.streamlit.app/)
-- Compares Logistic Regression, SVC and Decision Tree
-- Best model: Logistic Regression, **84.8% accuracy**, **0.90 AUC**
-- Interactive Streamlit app
 
-`Python` `scikit-learn` `Streamlit` `joblib`
-
-</td>
-<td width="50%" valign="top">
-
-### [Preference Bandits](https://github.com/saun09/A-Bandit-Simulator-with-Biased-Human-Feedback)
-*Bandit simulator with biased human feedback*
-- Dueling and contextual bandit algorithms
-- ε-greedy & Thompson Sampling
-- Bias analysis and fairness metrics
-- Interactive Streamlit dashboard
-
-`Python` `Streamlit` `NumPy` `Matplotlib`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [DigiYatra](https://github.com/saun09/flight-booking)
-*Flight booking system* · [Live demo](https://digiyatra-ms3kc7z63-saundarya-s-projects.vercel.app/search-flight)
-- Flight search with destination and date filters
-- Passenger details and interactive seat selection
-- Self check-in and boarding pass generation
-
-`React` `JavaScript` `HTML/CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### [Quizzila](https://github.com/saun09/Quizzilla)
-*Quiz platform to create, manage and attempt quizzes*
-- Full-stack web app with user management
-- Real-time scoring and secure sessions
-
-`PHP` `MySQL` `JavaScript` `Bootstrap`
 
 </td>
 </tr>
@@ -128,14 +55,6 @@ Built **Xelly**, an intelligent Excel analysis platform.
 
 > More on my [GitHub profile](https://github.com/saun09?tab=repositories).
 
----
-
-## 📄 Research
-
-**Comparative Analysis of Deep Learning Models for Crop Disease Detection**
-*Subramaniam, S., Majumdar, S., Nadar, S., Kulkarni, K.*
-
-Evaluated **5 deep learning models** on **130K+ crop images**. A custom CNN reached **95.76% accuracy**, and the study showed how effective transfer learning is for agricultural AI.
 
 ---
 
@@ -165,15 +84,7 @@ Evaluated **5 deep learning models** on **130K+ crop images**. A custom CNN reac
 
 </div>
 
----
 
-## 🏆 Achievements
-
-- **Certifications:** Reinforcement Learning (NPTEL) · Multi-Agent AI Systems (IUCEE)
-- **Competitive programming:** HackerRank Gold badges · 100+ LeetCode problems
-- **Recognition:** National Scholarship (Ministry of Culture) · 4 classical music examinations
-
----
 
 ## 📊 GitHub Stats
 
